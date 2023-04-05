@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+    background-color: beige;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1vh;
+}
+
+.card{
+    background-color: #282C34;
+    color: #ddd;
+    width: 19%;
+    height: 20vh;
+}
+
